@@ -3,9 +3,9 @@ By - Hemanth Joseph Raj (117518955) and Venkata Sri Ranga Sai Anapu (118529950)
 
 
 * Files in the directory:
-     1 The ROS package - my_package
-     2 Video
-     3 This readme file
+     1) The ROS package - my_package
+     2) Video
+     3) This readme file
 
 ####### Instructions to run the code #######
 * Navigate inside the part 2 folder
