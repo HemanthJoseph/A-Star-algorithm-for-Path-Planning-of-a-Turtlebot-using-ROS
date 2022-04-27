@@ -3,11 +3,11 @@ By - Hemanth Joseph Raj (117518955) and Venkata Sri Ranga Sai Anapu (118529950)
 
 
 * Files in the directory:
-     1 Main.py
-     2 Obstacles.py
-     3 Functions.py
-     4 Video
-     5 This readme file
+     1) Main.py
+     2) Obstacles.py
+     3) Functions.py
+     4) Video
+     5) This readme file
 
 * Input arguements-
     1) Input Start point x co-ordinate
